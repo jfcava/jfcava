@@ -79,9 +79,22 @@ Any typos in commits → **her fault**. 😉
 
 ### 📫 Contact
 
-📫 Reach out to me at: <a href="juancavallieri@gmail.com">juancavallieri@gmail.com</a>
+Reach out to me at: <a href="juancavallieri@gmail.com">juancavallieri@gmail.com</a>
 
 Always happy to learn from others and share knowledge 🤝
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/jfcava" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
 
 
 
