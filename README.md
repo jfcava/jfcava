@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi , I'm Juan Franco Cavallieri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-### Welcome to my GitHub!
+### Welcome to my GitHub! 👋
 
-I'm Juan — a **Filmmaker & Video Editor** transitioning into the world of **Software Development**.  
-After years working behind the camera and in post-production, I found a passion for coding, problem solving, and building things from scratch.
+I'm Juan — a **.NET Developer** focused on building robust backends and web applications. 
+Currently, I am advancing my formal education by pursuing a **University Technician Degree in Programming** at **UTN (Universidad Tecnológica Nacional)**, while actively developing projects using **C#, ASP.NET MVC, and SQL Server**.
 
-I’ve been studying programming for several years, focusing on **C# (.NET)**, and I am currently studying the **University Technician Degree in Programming** at **UTN (Universidad Tecnológica Nacional)** to strengthen my academic and practical foundations in software development.
+I love writing clean code, solving complex logic problems, and building scalable solutions from scratch.
 
 ---
 
@@ -37,19 +37,14 @@ I’ve been studying programming for several years, focusing on **C# (.NET)**, a
 
 ---
 
-### 🎨 A little about my background
+### 🎬 My Secret Weapon: A Unique Background
 
-Before coding, I worked as:
-- **Cinematographer**
-- **Camera Operator**
-- **Video Editor**
+Before fully dedicating myself to software development, I spent over 10 years managing high-stakes live TV broadcasts (as a Switcher Master) and running my own business. 
 
-This experience helps me:
-- Solve problems creatively  
-- Adapt quickly to new challenges  
-- Collaborate and communicate clearly  
-- Stay focused when projects get complex  
-
+How does this make me a better developer?
+- **Troubleshooting under pressure:** I'm used to solving critical issues in real-time without panicking.
+- **Business Vision (End-to-End):** I understand product lifecycles and customer needs.
+- **Communication:** I thrive in fast-paced, cross-functional teams.
 ---
 
 ### 🐾 Fun Fact
@@ -66,6 +61,9 @@ Any typos in commits → **her fault**. 😉
 </p>
 
 ---
+### 🏆 Featured Project
+
+* **[E-Commerce WebApp (Tienda de Electrónica)](URL-DE-TU-REPOSITORIO-AQUI):** A full-stack MVC application built with C#, ASP.NET, SQL Server, and Entity Framework. Features include a complete product catalog, user authentication, role management (Admin/Client), and CRUD operations.
 
 ### 🚀 Current Goals
 
