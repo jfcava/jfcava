@@ -63,7 +63,7 @@ Any typos in commits → **her fault**. 😉
 ---
 ### 🏆 Featured Project
 
-* **[E-Commerce WebApp (Tienda de Electrónica)](URL-DE-TU-REPOSITORIO-AQUI):** A full-stack MVC application built with C#, ASP.NET, SQL Server, and Entity Framework. Features include a complete product catalog, user authentication, role management (Admin/Client), and CRUD operations.
+* **[E-Commerce WebApp (Tienda de Electrónica)](https://github.com/jfcava/ECommerceWebApp_TiendaElectronica):** A full-stack MVC application built with C#, ASP.NET, SQL Server, and Entity Framework. Features include a complete product catalog, user authentication, role management (Admin/Client), and CRUD operations.
 
 ### 🚀 Current Goals
 
