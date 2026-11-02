@@ -2,8 +2,8 @@
 
 ### Welcome to my GitHub! 🚀
 
-I'm Juan — a **Backend Developer** focused on building clean, efficient, and scalable software solutions. 
-Currently pursuing a **University Technician Degree in Programming** at **UTN (Universidad Tecnológica Nacional)**, specializing in **Java 21, JPA/Hibernate, and Relational Databases**, alongside hands-on experience in **C# & .NET**.
+I'm Juan — a Backend Developer focused on building clean, efficient, and scalable software solutions.
+Currently pursuing a University Technician Degree in Programming at UTN (Universidad Tecnológica Nacional), specializing in Java 21, Relational & NoSQL Databases (MongoDB Atlas), alongside hands-on experience in C# & .NET.
 
 I love writing clean code, applying solid design patterns, and tackling complex domain logic from scratch.
 
