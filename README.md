@@ -57,7 +57,7 @@ How does this make me a better backend developer?
 
 ### 🐾 Fun Fact
 
-My girlfriend and I have a cat named **Ginebra**, who supervises all my coding sessions.  
+My wife and I have two cats named **Ginebra** and **Sira** who supervise all my coding sessions.  
 Any typos in commits → **her fault**. 😉
 
 ---
