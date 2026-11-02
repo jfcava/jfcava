@@ -62,14 +62,6 @@ Any typos in commits → **her fault**. 😉
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfcava&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
